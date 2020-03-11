@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2_EscuadrónMapache.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -9,11 +9,10 @@ Descripción:
 
 Logotipo: 
 
-Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+Miembros:
+ * :bust_in_silhouette:   [Pablo Vallejo Ruiz]: https://github.com/Galactic-O   ​     :octocat:     
 
------ 
+-----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
@@ -32,10 +31,24 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+Observaremos aplicaciones para compartir alojamiento - permiten buscar habitaciones para compartir y poner en alquiler nuestras ubicaciones. Badi es una app móvil gratuita, que se diferencia de otras apps por su sistema de perfiles, que facilita encontrar personas de gustos similares, asegurando una experiencia de convivencia mucho más personalizada.
+
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
+![](/home/pvr999/Documents/ETSIIT/DIU/DIU20/P1/persona1.png)
+
+Esther Píscore: Se ha escogido este usuario para representar a un demográfico bastante común, una juventud sociable pero con poca experiencia a la hora de usar aplicaciones específicas.
+
+
+![](/home/pvr999/Documents/ETSIIT/DIU/DIU20/P1/persona2.png)
+
+Casimiro Buenavista: Este usuario ha sido escogido con la idea de explorar la accesibilidad que puede o no tener la aplicación - un tema comúnmente ignorado y de extrema importancia a la hora de desarrollar una interfaz.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -43,13 +56,16 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
+
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  > SE deben incluir claramente los siguientes elementos
+>>>  >
+>>>  > - Enlace al documento:  (sube a github el xls/pdf) 
+>>>  - Valoración final (numérica): 
+>>>  - Comentario sobre la valoración:  (60-120 caracteres)
 
 
 ## Paso 2. UX Design  
@@ -65,9 +81,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
+
   
-  
-  
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
