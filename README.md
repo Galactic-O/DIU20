@@ -39,12 +39,13 @@ Observaremos aplicaciones para compartir alojamiento - permiten buscar habitacio
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-![](/home/pvr999/Documents/ETSIIT/DIU/DIU20/P1/persona1.png)
+![](/P1/persona1.png)
 
 Esther Píscore: Se ha escogido este usuario para representar a un demográfico bastante común, una juventud sociable pero con poca experiencia a la hora de usar aplicaciones específicas.
 
 
-![](/home/pvr999/Documents/ETSIIT/DIU/DIU20/P1/persona2.png)
+
+![](/P1/persona2.png)
 
 Casimiro Buenavista: Este usuario ha sido escogido con la idea de explorar la accesibilidad que puede o no tener la aplicación - un tema comúnmente ignorado y de extrema importancia a la hora de desarrollar una interfaz.
 
