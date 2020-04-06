@@ -14,7 +14,7 @@
 
  ## 1.a Desk Research: Competitive Analysis
 
-El objetivo de la práctica será realizar un análisis de aplicacioens para compartir alojamiento - el tipo de aplicaciones que permiten a los usuarios buscar habitaciones y pisos que compartir con otras personas, además de permitir publicar anuncios que puedan ser vistos por otros. Realizamos un análisis de algunas de las apps más populares con el objetivo de ver en cual nos centraremos:
+El objetivo de la práctica será realizar un análisis de aplicaciones para compartir alojamiento - el tipo de aplicaciones que permiten a los usuarios buscar habitaciones y pisos que compartir con otras personas, además de permitir publicar anuncios que puedan ser vistos por otros. Realizamos un análisis de algunas de las apps más populares con el objetivo de ver en cual nos centraremos:
 
 |                                   | Badi | ComparteTuPiso | Habitoom | Idealista |
 | --------------------------------- | ---- | -------------- | -------- | --------- |
