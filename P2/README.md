@@ -1,3 +1,5 @@
+
+
 DIU - Practica2, entregables
 
 - Malla receptora de información 
@@ -86,3 +88,52 @@ Se ha resaltado en negrita las funciones más críticas, en las que se centrará
 ![](sitemap.png)
 
 En el Sitemap queda reflejado el flujo que seguirá la página. Además de lo representado en este mapa, cabe resaltar que además de los posibles caminos representados en el mapa, también se dispondrá de una barra de navegación con enlaces a las secciones más importantes, incluyendo un enlace al chat de ayuda que se abrirá como ventana emergente sobre la página, permitiendo contactar con los desarrolladores sin interrumpir el proceso.
+
+
+
+----------------------------------------------------
+
+
+
+ ## 2.c Labelling
+
+A continuación se detallan las distintas etiquetas utilizadas en el diseño de la aplicación junto con su descripción e iconografía.
+
+| Etiqueta          | Descripción                                                  | Icono                                |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------ |
+| Menú emergente    | Se pulsa para abrir el menú de navegación emergente          | ![Menú emergente](Icons/menu.png)    |
+| Página de inicio  | Lleva a la página de inicio de la aplciación, que recoge la mayoría de las opciones de la app, como publicar anuncios o realizar búsquedas, ver notificaciones, o ver ofertas destacadas u otro contenido relevante. | ![Pagina de inicio](Icons/home.png)  |
+| Búsqueda          | Lleva a la páquina de Búsqueda en la que se puede realizar búsquedas por escrito, búsquedas recientes o por ubicación | ![Busqueda](Icons/search.png)        |
+| Realizar búsqueda | Barra de búsqueda de ofertas en la sección de Búsqueda       |                                      |
+| Filtrar           | Lleva al usuario a la página de Filtrar, que permite seleccionar filtros para los resultados de la búsqueda. | ![filtrar](Icons/filtrar.png)        |
+| Realizar reserva  | Permite al usuario realizar una reserva en un anuncio específico. | Botón con texto                      |
+| Mensajes          | Lleva a la página personal de mensajes, donde el usuario puede ver y contestar a mensajes personales o a través de grupos. | ![Mensajes](Icons/letter.png)        |
+| Notificaciones    | Lleva a la página de Notificaciones, donde el usuario puede revisar las notificacione srecibidas previamente. | ![notificaciones](Icons/bell.png)    |
+| Perfil            | Representa el perfil del usuario activo en la aplicación y adicionalmente el de otros usuarios. | ![perfil](Icons/man.png)             |
+| Ayuda emergente   | Se pulsa para abrir la ventana emergente de ayuda.           | ![ayuda](Icons/pregunta.png)         |
+| Chat de ayuda     | Abre el chat de ayuda como ventana emergente.                | ![chat de ayuda](Icons/noticias.png) |
+| F.A.Q.            | Representa la sección de F.A.Q. (Preguntas Frecuentes)       | ![](Icons/preguntapersona.png)       |
+| Configuración     | Representa la configuración tanto de la aplicación como de los perfiles y anuncios. | ![](Icons/settings.png)              |
+----------------------------------------------------
+
+## 2.d Wireframes
+
+![PaginaInicio](PaginaInicio.png)
+
+![](Buscar.png)
+
+![](Resultados.png)
+
+![](Anuncio.png)
+
+![](Mensajes.png)
+
+![](Notificaciones.png)
+
+![](Perfil.png)
+
+![](Menu-Emergente.png)
+
+![](Ayuda-Emergente.png)
+
+![](FAQ.png)
