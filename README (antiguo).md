@@ -7,43 +7,48 @@ Proyecto: Yutaku
 
 Descripción: Aplicación movil de alquiler de viviendas en la que el usuario pdorá realizar búsquedas de piso con filtros de hhabitación y personas, además de mantenerse en contacto y conocer a otras personas con las que vivir.
 
-Logotipo: <img src="P3/icono.png" alt="Logotipo" style="zoom:2%;" />
+Logotipo: 
 
 Miembros:
  * :bust_in_silhouette:   [Pablo Vallejo Ruiz]: https://github.com/Galactic-O   ​     :octocat:     
 
 -----
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil, haciendo uso de herramientas y entregables descritos en [el siguiente CheckList.](https://github.com/mgea/UX-DIU-Checklist) 
-
-## User Research:
-
-Para obtener información sobre nuestro cliente objetivo y sus necesidades realizaremos un User Research, consistente en los siguiente Métodos.
+En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
- ### Competitive Analysis:
+Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
+
+>>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
+
+
+# Proceso de Diseño 
+
+## Paso 1. UX Desk Research & Analisis 
+
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
+-----
 
 Observaremos aplicaciones para compartir alojamiento - permiten buscar habitaciones para compartir y poner en alquiler nuestras ubicaciones. Badi es una app móvil gratuita, que se diferencia de otras apps por su sistema de perfiles, que facilita encontrar personas de gustos similares, asegurando una experiencia de convivencia mucho más personalizada.
 
 
-### User Personas:
-
-Hemos creado 2 user personas para ayudarnos a indentificar las metas y fristraciones de nuestro usuario objetivo. Hemos creado los dos siguientes user personas:
-
-El primer usuario, Esther:
+![Método UX](img/Persona.png) 1.b Persona
+-----
 
 ![](P1/persona1.png)
 
-Se ha escogido este usuario para representar a un demográfico bastante común, una juventud sociable pero con poca experiencia a la hora de usar aplicaciones específicas.
+Esther Píscore: Se ha escogido este usuario para representar a un demográfico bastante común, una juventud sociable pero con poca experiencia a la hora de usar aplicaciones específicas.
 
-Y el segundo usuario, Casimiro:
+
 
 ![](P1/persona2.png)
 
-Este usuario ha sido escogido con la idea de explorar la accesibilidad que puede o no tener la aplicación - un tema comúnmente ignorado y de extrema importancia a la hora de desarrollar una interfaz.
+Casimiro Buenavista: Este usuario ha sido escogido con la idea de explorar la accesibilidad que puede o no tener la aplicación - un tema comúnmente ignorado y de extrema importancia a la hora de desarrollar una interfaz.
 
 
-### User Journey Map:
+
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
+----
 
 Se han escogido estas dos experiencias de usuario con el objetivo de explorar dos problemas que muy facilmente podrían surgir durante el uso de la aplicación y que nos permiten reflexionar sobre que mejorar en nuestra aplicación.
 
@@ -51,32 +56,35 @@ Se han escogido estas dos experiencias de usuario con el objetivo de explorar do
 
 ![](P1/journey2.png)
 
-
-### Usability Review:
-
-A partir de lo observado en las experiencias de usuario que hemos planteado, y después de que nuestro equipo realizase un análisis práctico de la página ejemplo, se ha redactado la siguiente Usability Review. La revisión de usabilidad a través del [siguiente enlace.](P1/Usability-review.pdf)
+![Método UX](img/usabilityReview.png) 1.d Usability Review
+----
+La revisión de usabilidad a través del [siguiente enlace.](P1/Usability-review.pdf)
 
 · Valoración final: 80
 
 · Comentario: Badi posee una buena base y un buen diseño inicial, pero posee algunos fallos que empeoran la UX Experience. Si estos puntos se tratasen, se podrían hacer relucir aún más los puntos fuertes de Badi y mejorar la experiencia de usuario significantemente.
 
 
-### Feedback Capture Grid:
+## Paso 2. UX Design  
 
-Se ha redactado el siguiente Feedback Capture Grid con el objetivo de recopilar toda la infromación obtenida hasta ahora, para facilitarnos su uso y su análisis.
+
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+----
+
+Se plantea el siguiente Feedback Capture Grid a modo de conclusión de la última práctica.
 
 ![Feedback Capture Grid](P2/feedback.jpg)  
 
 Se puede encontrar el análisis detallado, con el análisis de los problemas de la aplicación y la propuesta de valor alcanzada en [el siguiente enlace.](P2/readme.md)
 
 
-## UX Design
 
-Una vez terminado el User Research y tras haber recabado toda la información de las necesidades y frustaciones de los usuarios, pasamos al diseño de nuestra aplicación.
+![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+-----
 
-### Feature Prioritisation (User/task matrix):
+### User/task matrix
 
-Se ha hecho uso de una matriz de tareas/usuarios para enumerar las distintas tareas que se pueden realizar en la aplicación y que tipo de usuarios serán las que más las realicen. Esto nos ayudará a saber en que tareas centrar nuestra atención a la hora de diseñar la app.
+Se ha hecho uso de una matriz de tareas/usuarios para enumerar las distintas tareas que se pueden realizar en la aplicación y que tipo de usuarios serán las que más las realicen.
 
 H = high; M= medium, and L = Low
 
@@ -104,17 +112,18 @@ H = high; M= medium, and L = Low
 
 
 
-### Sitemap:
+### Sitemap
 
-Se ha creado un sitemap en el que queda reflejado el flujo que seguirá la página a nivel de navegación. En él quedan representadas las tareas que hemos considerado más relevantes para el uso de la aplicación.
+Se ha creado un sitemap en el que queda reflejado el flujo que seguirá la página a nivel de navegación.
 
 ![](P2/sitemap.png)
 
 
 
-### Labelling :
+![Método UX](img/labelling.png) 2.c Labelling 
+----
 
-A continuación detallamos las distintas etiquetas utilizadas en el diseño de la aplicación junto con su descripción e iconografía.
+A continuación se detallan las distintas etiquetas utilizadas en el diseño de la aplicación junto con su descripción e iconografía.
 
 | Etiqueta          | Descripción                                                  | Icono                                   |
 | ----------------- | ------------------------------------------------------------ | --------------------------------------- |
@@ -134,9 +143,10 @@ A continuación detallamos las distintas etiquetas utilizadas en el diseño de l
 
 
 
-### Primer prototipo - Wireframes:
+![Método UX](img/Wireframes.png) 2.d Wireframes
+-----
 
-Se han creado los primeros prototipos de la aplicación, en forma de wireframes para representar su diseño.
+Se plantean a continuación los wireframes creados para representar el diseño de la aplicación.
 
 | ![PaginaInicio](P2/PaginaInicio.png) | ![](P2/Buscar.png)         | ![](P2/Resultados.png)      |
 | ------------------------------------ | -------------------------- | --------------------------- |
@@ -147,19 +157,18 @@ Se han creado los primeros prototipos de la aplicación, en forma de wireframes 
 
 
 
-## Mi equipo UX-Case Study 
-
-Para mejorar nuestro UX Case Study, y de acuerdo a la práctica, se ha reestrcuturado el formato del archivo readme.md para dotarlo de una estructura más ordenada.
+## Paso 3. Mi equipo UX-Case Study 
 
 
-
-### Análisis del UX Case Study MuseMap Street Art App:
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+-----
 
 La experiencia MuseApp nos muestra una manera más profesional de plantear un UX Case Study explorando de manera individual cada uno de los métodods UX utilizados. Se puede leer el análisis extendido [aquí.](P3/readme.md) 
 
 
 
-### Logotipo de la aplicación:
+![Método UX](img/landing-page.png)  3.b Logotipo
+----
 
 Se han diseñado los siguientes logotipo e icono para la aplicación desarrollada.
 
@@ -169,8 +178,7 @@ Se han diseñado los siguientes logotipo e icono para la aplicación desarrollad
 
 Estos serán utilizados para representar a la aplicación tanto dentro del mismo programa como en redes sociales, publicidad, y otros.
 
-
-### Guía de estilo:
+### Guía de estilo
 
 También se ha desarrollado una guía de estilo en la que se ha definido la tipografía, iconografía, y paletade colores que usará la aplicación.
 
@@ -178,28 +186,21 @@ También se ha desarrollado una guía de estilo en la que se ha definido la tipo
 
 
 
-### Guidelines del proyecto:
+![Método UX](img/guidelines.png) 3.c Guidelines
+----
 
-A la hora de realizar el diseño final de la aplicación, se ha optado por seguir los principios de diseño de aplicaciones móviles planteados por Google. Esta decisión se explica con más detalle [en el siguiente enlace.](P3/readme.md)
+Se ha decidido seguir los principios de diseño de aplicaciones móviles planteados por Google. Esta decisión se explica con más detalle [en el archivo Readme de la Práctica.](P3/readme.md)
 
 
 
-### Vídeo explicativo:
+![Método UX](img/mockup.png)  3.d Video
+----
 
-Se ha creado un vídeo en el que se sintetizan las características de nuestro proyecto, y se explica al usuario el proceso de Case Study que hemos realizado para llegar a nuestro producto.
+Se ha realizado un vídeo en el que se sintetizan las características de nuestro proyecto, y se explica al usuario el proceso de Case Study que hemos realizado para llegar a nuestro producto.
 
 Se puede acceder al video a través del [siguiente enlace.](https://youtu.be/N9TjQsbekaM)
 
 
-
-
-
------
-
-
-
-
-----
 
 
 ## Paso 4. Evaluación 
