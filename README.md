@@ -10,7 +10,7 @@ Descripción: Aplicación movil de alquiler de viviendas en la que el usuario pd
 Logotipo: <img src="P3/icono.png" alt="Logotipo" style="zoom:2%;" />
 
 Miembros:
- * :bust_in_silhouette:   [Pablo Vallejo Ruiz]: https://github.com/Galactic-O        :octocat:     
+ * :bust_in_silhouette:   [Pablo Vallejo Ruiz](https://github.com/Galactic-O)        :octocat:     
 
 -----
 
@@ -25,23 +25,21 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 # Proceso de Diseño 
 
 # Paso 1. UX Desk Research & Analisis 
-------
+
 
 User Research: Para obtener información sobre nuestro cliente objetivo y sus necesidades realizaremos un User Research, consistente en los siguiente Métodos.
 
 
 
 ## ![Método UX](img/Competitive.png)1.a Competitive Analysis
-------
+
 
 Observaremos aplicaciones para compartir alojamiento - permiten buscar habitaciones para compartir y poner en alquiler nuestras ubicaciones. Badi es una app móvil gratuita, que se diferencia de otras apps por su sistema de perfiles, que facilita encontrar personas de gustos similares, asegurando una experiencia de convivencia mucho más personalizada.
 
 
 
-![Método UX](img/Persona.png) 1.b User Personas
-------
+## ![Método UX](img/Persona.png) 1.b User Personas
 
--------
 
 Hemos creado 2 user personas para ayudarnos a identificar las metas y frustraciones de nuestro usuario objetivo. Hemos creado los dos siguientes user personas:
 
@@ -62,7 +60,6 @@ Este usuario ha sido escogido con la idea de explorar la accesibilidad que puede
 
 ## ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 
-------
 
 Se han escogido estas dos experiencias de usuario con el objetivo de explorar dos problemas que muy facilmente podrían surgir durante el uso de la aplicación y que nos permiten reflexionar sobre que mejorar en nuestra aplicación.
 
@@ -75,7 +72,6 @@ Se han escogido estas dos experiencias de usuario con el objetivo de explorar do
 
 ## ![Método UX](img/usabilityReview.png) 1.d Usability Review
 
-------
 
 A partir de lo observado en las experiencias de usuario que hemos planteado, y después de que nuestro equipo realizase un análisis práctico de la página ejemplo, se ha redactado la siguiente Usability Review. La revisión de usabilidad, junto con el informe de usabilidad extendido, se pueden ver a través del [siguiente enlace.](P1/Usability-review.pdf)
 
@@ -88,14 +84,10 @@ A partir de lo observado en las experiencias de usuario que hemos planteado, y d
 
 
 # Paso 2. UX Design  
-------
 
 
+## ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
------
-
------
 
 Se ha redactado el siguiente Feedback Capture Grid con el objetivo de recopilar toda la información obtenida hasta ahora, para facilitarnos su uso y su análisis.
 
@@ -151,10 +143,8 @@ Se ha creado un sitemap en el que queda reflejado el flujo que seguirá la pági
 
 
 
-![Método UX](img/labelling.png) 2.c Labelling 
-------
+## ![Método UX](img/labelling.png) 2.c Labelling 
 
------
 
 A continuación detallamos las distintas etiquetas utilizadas en el diseño de la aplicación junto con su descripción e iconografía.
 
@@ -176,10 +166,8 @@ A continuación detallamos las distintas etiquetas utilizadas en el diseño de l
 
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
-------
+## ![Método UX](img/Wireframes.png) 2.d Wireframes
 
------
 
 Se han creado los primeros prototipos de la aplicación, en forma de wireframes para representar su diseño.
 
@@ -195,25 +183,20 @@ Se han creado los primeros prototipos de la aplicación, en forma de wireframes 
 
 # Paso 3. Mi equipo UX-Case Study 
 
---------
+
 
 Para mejorar nuestro UX Case Study, y de acuerdo a la práctica, se ha reestrcuturado el formato del archivo readme.md para dotarlo de una estructura más ordenada.
 
 
 
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study? Análisis del UX Case Study MuseMap Street Art App
-------
+## ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study? Análisis del UX Case Study MuseMap Street Art App
 
--------
 
 La experiencia MuseApp nos muestra una manera más profesional de plantear un UX Case Study explorando de manera individual cada uno de los métodods UX utilizados. Se puede leer el análisis extendido [aquí.](P3/readme.md) 
 
 
 
-![Método UX](img/landing-page.png)  3.b Logotipos
-------
-
------
+## ![Método UX](img/landing-page.png)  3.b Logotipos
 
 Se han diseñado los siguientes logotipo e icono para la aplicación desarrollada.
 
@@ -222,8 +205,6 @@ Se han diseñado los siguientes logotipo e icono para la aplicación desarrollad
 ![](P3/icono.png)
 
 Estos serán utilizados para representar a la aplicación tanto dentro del mismo programa como en redes sociales, publicidad, y otros.
-
-
 
 
 ### Guía de estilo:
@@ -235,20 +216,14 @@ También se ha desarrollado una guía de estilo en la que se ha definido la tipo
 
 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
-------
-
-------
+## ![Método UX](img/guidelines.png) 3.c Guidelines
 
 A la hora de realizar el diseño final de la aplicación, se ha optado por seguir los principios de diseño de aplicaciones móviles planteados por Google. Esta decisión se explica con más detalle [en el siguiente enlace.](P3/readme.md)
 
 
 
 
-![Método UX](img/mockup.png)  3.d Video
-------
-
-------
+## ![Método UX](img/mockup.png)  3.d Video
 
 Se ha creado un vídeo en el que se sintetizan las características de nuestro proyecto, y se explica al usuario el proceso de Case Study que hemos realizado para llegar a nuestro producto.
 
@@ -262,12 +237,7 @@ Se puede acceder al video a través del [siguiente enlace.](https://youtu.be/N9T
 
 # Paso 4. Evaluación 
 
-----
-
-![Método UX](img/ABtesting.png) 4.a Casos asignados
------
-
-
+## ![Método UX](img/ABtesting.png) 4.a Casos asignados
 
 ### Caso 1: DIU1.Cohete - Pazifika
 
@@ -277,8 +247,6 @@ El equipo Cohete nos presenta **Pazifika**, una aplicación para dispositivos m�
 
 Puedes leer el análisis del proyecto, y  las hoja de evaluación en formato PDF y Excel, [en el siguiente enlace](P4/readme.md). Puedes encontrar. 
 
-
-
 ### Caso 2: DIU2.GMI - Global Home
 
 Se analiza el UX Case Study presentado por el equipo DIU2.GMI, que se puede encontrar en [el siguiente enlace de GitHub](https://github.com/GonzaloMartinezIanez/DIU2-GMI).
@@ -286,8 +254,6 @@ Se analiza el UX Case Study presentado por el equipo DIU2.GMI, que se puede enco
 El equipo GMI nos presenta **Global Home**, una aplicación para dispositivos móviles que permita a usuarios de distintas partes del mundo buscar un anfitrión donde alojarse o ofrecer su casa a otro usuario, todo esto destinado a personas que buscan alojamiento por trabajo o estudios.
 
 Puedes leer el análisis del proyecto, y  las hoja de evaluación en formato PDF y Excel, [en el siguiente enlace](P4/readme.md).
-
-
 
 ### Caso 3: DIU3.UltraMerino
 
@@ -299,19 +265,16 @@ Puedes leer el análisis del proyecto, y  las hoja de evaluación en formato PDF
 
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
------
+## ![Método UX](img/usability-testing.png) 4.b User Testing
 
------
 
 Se ha seleccionado a Casimiro Buenavista, uno de los User Personas descritos en el Paso 1 de nuestro proyecto, para plantear situaciones con los diseños ofrecidos por los equipos y ver posibles problemas o puntos de interés. Puede ver los casos planteados [en el README de la práctica](P4/readme.md).
 
 
 
-![Método UX](img/Survey.png). 4.c Ranking 
------
+## ![Método UX](img/Survey.png). 4.c Ranking 
 
-------
+
 
 A partir de la puntuación obtenida en las reviews de los casos asignados, hemos creado el siguiente ranking:
 
@@ -323,11 +286,11 @@ Se puede leer la conclusión y valoración personal de estas valoraciones [en el
 
 
 
-## Paso 5. Evaluación de Accesibilidad  
+# Paso 5. Evaluación de Accesibilidad  
 
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
+## ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
 
